@@ -1,0 +1,219 @@
+.logo img{
+	margin-left:9px;
+	padding: 11px;
+}
+.navigat
+{
+background-color:white;
+	width:90%;
+	margin-left:89px;
+	float:left;
+	padding: 1px;
+	
+}
+
+li{
+	float:left;
+display:inline-block;
+}
+li a{
+padding:17px;
+margin-right:2px;
+color:#999966;
+}
+.banner{
+	width:102.7%;
+	height: 600px;
+	background-image: url(../images/banner.jpg);
+	background-size: cover;
+	margin-left: -15px;
+	position: relative;
+	border: 1px solid black;
+	}
+	.hed{
+		width: 667px;
+		height: 250px;
+		
+	     margin-top:193px;
+	     margin-left:246px; 
+		position: absolute;
+
+	}
+	.btnp{
+	 
+		 width: 145px; 
+		 height: 42px;
+		 margin:7px;
+	
+	}
+	.btnbox{
+		width: 407px;
+		height:60px;
+		margin-left:177px;
+	}
+.youtb{
+	width: 98%;
+	
+	height: 355px;
+	background-image: url("../images/youtube.jpg")
+
+}
+.space{
+
+	width: 40px;
+	height:50px;
+	border: 2 px solid black;
+	margin-left: 320px;
+}
+.alldiv{
+	width: 90%;
+	height: 192px;
+	margin-left: 27px;
+	margin-top: 0px
+}
+.underline
+{width:77px;
+	height: 5px;
+	background-color:#0fbe7d
+}
+.option{
+	width: 50%;
+	border: 1px solid black;
+	text-align: center;
+	}
+	.column{
+		width: 50%;
+		height:0px;
+		display: table;
+		float:left;
+		text-align: center;
+		}
+		.p{
+			padding:0px;
+			margin-top: 14px;
+
+		}
+		.images2{
+
+			background-image: url("../images/image-2.jpg");
+			height: 640px;
+            width:102.7%;
+            background-size: cover;
+	        margin-left: -15px;
+	        position: relative;
+	        border: 1px solid black;
+		}
+		.jesus{
+			width: 460px;
+			height: 205px;
+			border: 1px solid black;
+			margin-left:73px;
+			margin-top: 100px;
+		}
+		
+	.jesusdn{
+			width: 460px;
+			height: 205px;
+			border: 1px solid black;
+			margin-left:73px;
+			margin-top: 0px;
+		}
+		.bible{
+			width: 460px;
+			height: 205px;
+			border: 1px solid black;
+			margin-left:563px;
+			margin-top:-410px;
+			
+		}
+		.bibledn
+		{
+			width: 460px;
+			height: 205px;
+			border: 1px solid black;
+			margin-left:563px;
+			margin-top:0px;
+			padding: 2px;
+			
+		}
+		.days1{
+			width: 460px;
+			height: 205px;
+			border: 1px solid black;
+			margin-left:73px;
+			margin-top: 44px;
+		}
+		.days2{
+			width: 460px;
+			height: 205px;
+			border: 1px solid black;
+			margin-left:604px;
+			margin-top: -205px;
+		}
+		.company{
+			width: 102.7%;
+			margin-left:-15px;
+			background-color:#0fbe7d; 
+			height: 83px;
+
+		}
+		.learn{
+			margin-left: 79px;
+			width: 70px;
+			height: 70px;
+			border:  1px solid black;
+		}
+		.mobile{
+			width: 100%
+			border:1px solid black;
+		}
+		.app{
+			width: 100%;
+			border: 1px solid black;
+		}
+		.google{
+			width: 181px;
+			margin-left:388px;
+		}
+		.play{
+			width: 181px;
+			margin-left:580px;
+			margin-top: -51px;
+
+		}
+		.form
+		{
+			
+display: inline;   
+			margin-left:180px;
+
+		}
+		.form2{
+			display: inline;   
+			margin-left:180px;
+		}
+		.footer{
+			width: 200px;
+			height: 70px;
+			border: 1px solid black;
+			margin-left: 513px;
+			margin-top: 30px;
+			background-color: black;
+
+		}
+		.footer2{
+			width: 600px;
+			height: 100px;
+			border: 1px solid black;
+			margin-left: 300px;
+			margin-top: 0x;
+			background-color: black;
+
+		}
+		.foot{
+			width: 102.7%;
+			height: 210px;
+			background-color: black;
+			margin-top: -30px;
+			margin-left:-15px;
+		}
